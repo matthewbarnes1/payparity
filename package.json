@@ -1,0 +1,16 @@
+{
+  "name": "payparity",
+  "version": "1.0.0",
+  "description": "PayParity — EU Pay Transparency Directive readiness for mid-size employers.",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
